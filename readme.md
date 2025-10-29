@@ -43,9 +43,7 @@ Upon completion, you will be able to:
 
 1. Execute your enhanced script:
 
-```bash
-python reuters_mlflow.py
-```
+ç
 
 2. Modify hyperparameters such as `num_words`, `maxlen`, batch size, or model architecture and rerun to create variations.
 
